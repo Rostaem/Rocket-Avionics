@@ -7,10 +7,10 @@ The avionics system is focused on safe dual-deployment, real time sensing, and r
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Current Status (January 2026): **design and prototyping phase**. The system must remain idle on the launch pad for 3–5 hours, detect launch autonomously, and support a total flight duration of ~5 minutes, with apogee reached ~20 seconds after liftoff.
 
-Progress : 
-- initial circuit design completed in KiCad (see hardware/schematics/)
-- Sensor selection finalized (IMU, barometer, GPS)
-
+Completed Tasks : 
+- ✔ initial circuit design completed in KiCad (see hardware/schematics/)
+- ✔ Sensor selection finalized (IMU, barometer, GPS)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Folder Overview
 <img width="1186" height="716" alt="Captura de pantalla 2026-01-11 a la(s) 1 20 40 a m" src="https://github.com/user-attachments/assets/c71f442c-40ab-4dfa-b498-a3595c869b1a" />
 
