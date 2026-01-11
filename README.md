@@ -12,7 +12,8 @@ Completed Tasks :
 - ✔ Sensor selection finalized (IMU, barometer, GPS)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Folder Overview
-<img width="1453" height="620" alt="Captura de pantalla 2026-01-11 a la(s) 3 31 39 p m" src="https://github.com/user-attachments/assets/c54a2274-9d5d-43d7-bfec-a4fd1c991ad9" />
+
+<img width="1426" height="676" alt="Captura de pantalla 2026-01-11 a la(s) 3 33 01 p m" src="https://github.com/user-attachments/assets/5204790d-6f52-42c7-8197-fb0a7d78e71e" />
 
 
 
