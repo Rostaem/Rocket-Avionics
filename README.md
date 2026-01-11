@@ -1,4 +1,4 @@
-# Laney Rocketry team-Avionics
+# Laney Rocketry Team - Avionics
 
 This repository hosts the ongoing development of a modular, fault-tolerant **flight computer system** for Laney Rocketry's latest experimental vehicle, a 2-meter high-power rocket designed for a flight duration of approximately five minutes.
 
