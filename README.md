@@ -2,7 +2,7 @@
 
 This repository hosts the ongoing development of a modular, fault-tolerant **flight computer system** for Laney Rocketry's latest vehicle, a 2-meter L2 rocket designed for a flight duration of approximately five minutes.
 
-The avionics system is focused on safe dual-deployment, real time sensing, and robust data logging, built on the **Arduino Due** platform, and engineered with modularity, clarity, and mission safety in mind.
+The avionics system is focused on safe dual-deployment, real time sensing, and data logging, built on the **Arduino Due** platform, and engineered with modularity, clarity, and mission safety in mind.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Current Status (January 2026): **design and prototyping phase**. The system must remain idle on the launch pad for 3–5 hours, detect launch autonomously, and support a total flight duration of ~5 minutes, with apogee reached ~20 seconds after liftoff.
