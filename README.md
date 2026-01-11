@@ -2,7 +2,7 @@
 
 This repository hosts the ongoing development of a modular, fault-tolerant **flight computer system** for Laney Rocketry's latest experimental vehicle, a 2-meter high-power rocket designed for a flight duration of approximately five minutes.
 
-The avionics system is focused on **safe dual-deployment**, **real-time sensing**, and **robust data logging**, built on the **Arduino Due** platform, and engineered with modularity, clarity, and mission safety in mind.
+The avionics system is focused on safe dual-deployment, real time sensing, and robust data logging, built on the **Arduino Due** platform, and engineered with modularity, clarity, and mission safety in mind.
 
 We are currently in the **design and prototyping phase**, with active development underway across firmware architecture, hardware integration, and testing procedures.
 
