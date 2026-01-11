@@ -6,7 +6,7 @@ The avionics system is focused on safe dual-deployment, real time sensing, and r
 
 Current Status: **design and prototyping phase**, with active development underway across firmware architecture, hardware integration, and testing procedures.
 
-## Project Overview
+### Folder Overview
 <img width="1186" height="716" alt="Captura de pantalla 2026-01-11 a la(s) 1 20 40 a m" src="https://github.com/user-attachments/assets/c71f442c-40ab-4dfa-b498-a3595c869b1a" />
 
 
