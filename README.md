@@ -9,3 +9,6 @@ We are currently in the **design and prototyping phase**, with active developmen
 
 <img width="1290" height="621" alt="Captura de pantalla 2026-01-10 a la(s) 10 09 50 p m" src="https://github.com/user-attachments/assets/fc900db1-08ec-461c-9acb-7242e5812b87" />
 
+<img width="597" height="821" alt="Captura de pantalla 2026-01-11 a la(s) 12 37 20 a m" src="https://github.com/user-attachments/assets/4ea9f0b1-709e-4ba9-bfc2-3f4aeea8d0c0" />
+
+
